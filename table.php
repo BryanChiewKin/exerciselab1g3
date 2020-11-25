@@ -17,7 +17,7 @@
  <th>0</th>
  <th>Subway Restaurant</th>
  <th>Menara Standard Chartered, TPM</th>
- <th>666-666-666</th>
+ <th>666-666-66</th>
  </tr>
  </table>
  </center>
